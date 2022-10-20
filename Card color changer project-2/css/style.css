@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+.cointainer{
+    margin: 200px 200px 0px 600px;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    width: 380px;
+    height: auto;
+    /* line-height: 30px; */
+}
+.card h2 p button {
+    line-height: 30px;
+}
+.btn{
+    padding: 8px;
+    border-radius: 12px;
+    margin: 8px 0px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.changer{
+    margin: 30px 200px 200px 600px;
+}
+#Red{
+    background-color: red;
+}
+#Yellow{
+    background-color: yellow;
+}
+#Blue{
+    background-color: blue;
+}
+#Green{
+    background-color: green;
+}
+.btn-b{
+    border: none;
+    padding: 20px;
+    margin: 5px;
+}
